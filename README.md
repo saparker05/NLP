@@ -11,4 +11,3 @@ To run this file first install SpaCy by typing the following in the command line
 to download the English model used 'en_core_web_md'. Do this by typing 'python -m spacy download en_core_web_md' in the 
 command line. Then execute the file semantic.py
 
-#### Usage 
